@@ -1,0 +1,37 @@
+PODS:
+  - AliyunOSSiOS (2.10.7)
+  - PKHUD (5.2.1)
+  - SnapKit (5.0.0)
+  - SQLiteRepairKit (1.2.2):
+    - WCDBOptimizedSQLCipher (~> 1.2.0)
+  - WCDB.swift (1.0.8.2):
+    - SQLiteRepairKit (~> 1.2.0)
+    - WCDBOptimizedSQLCipher (~> 1.2.0)
+  - WCDBOptimizedSQLCipher (1.2.1)
+
+DEPENDENCIES:
+  - AliyunOSSiOS
+  - PKHUD
+  - SnapKit (~> 5.0.0)
+  - WCDB.swift
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AliyunOSSiOS
+    - PKHUD
+    - SnapKit
+    - SQLiteRepairKit
+    - WCDB.swift
+    - WCDBOptimizedSQLCipher
+
+SPEC CHECKSUMS:
+  AliyunOSSiOS: 602b6a4e70e62a5f0a6431c20496343141d7e66f
+  PKHUD: 4e6162c4c39ac367c6934e9855c6b4762ee16256
+  SnapKit: fd22d10eb9aff484d79a8724eab922c1ddf89bcf
+  SQLiteRepairKit: 35aaae5a8838adb85f5b1eb4d796055be6060a4b
+  WCDB.swift: 05d509d7a0e60fb6e11c34eb7e4027c0fab5849f
+  WCDBOptimizedSQLCipher: baf44493b0c7a3d49e97bc5b64a3856f6428ddd1
+
+PODFILE CHECKSUM: 0edf66c4d097d25cd10f74250d59b937c96f119a
+
+COCOAPODS: 1.7.1
